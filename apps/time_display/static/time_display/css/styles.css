@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.line {
+    height: 20px;
+}
+
+.one_third {
+    width: 33%;
+}
+
+.one_quarter {
+    width: 25%;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.title {
+    border: black 3px solid;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;;
+    color: red;
+}
+
+.time {
+    border: black 3px solid;
+    height: 90px;
+    text-align: center;
+    padding-top: 15px;;
+    color: green;
+    width: 50%;
+}
+
+
